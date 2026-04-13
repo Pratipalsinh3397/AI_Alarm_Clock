@@ -58,5 +58,5 @@ This project does **not use any external dataset**—all data is generated from 
 | Image Processing | OpenCV |
 | Alarm Audio | pygame.mixer |
 | Data Storage | JSON, Pickle |
-| Others | NumPy, datetime |
+| Others | Python, NumPy, datetime |
 ---
